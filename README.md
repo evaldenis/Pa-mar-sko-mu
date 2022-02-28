@@ -6,7 +6,7 @@ This is my childhood game made with python and Tkinter library
 
 Launch the game using terminal or cmd by running:
 
-`python main_game_gui.py`
+`python3 main_game_gui.py` or `python main_game_gui.py`
 
 After game launched you should see this window:
 
