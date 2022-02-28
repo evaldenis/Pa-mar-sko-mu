@@ -1,6 +1,6 @@
-## Pa-mar-sko-mu
+# Pa-mar-sko-mu
 
-# Pythone version 3 required!
+### Pythone version 3 required!
 
 This is my childhood game made with python and Tkinter library
 
