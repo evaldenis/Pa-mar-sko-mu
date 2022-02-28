@@ -10,12 +10,12 @@ Launch the game using terminal or cmd by running:
 
 After game launched you should see this window:
 
-![Screenshot 2022-02-28 at 15 26 10](https://user-images.githubusercontent.com/46317706/155991384-b1217a70-ebc5-4856-884f-335959d93032.png)
+![Screenshot 1](https://user-images.githubusercontent.com/46317706/156020084-764ff1f6-dbc0-4fef-99f2-8a82f18272f9.png)
 
 Choose the sign you want to play with against computer and press ` Žaidžiam!`
 
 After that you will see if you won lost or it's a tie game.
 
-![Screenshot 2022-02-28 at 15 26 51](https://user-images.githubusercontent.com/46317706/155991753-a3ee707d-a440-48d7-9295-30006fe96bf2.png)
+![Screenshot 2](https://user-images.githubusercontent.com/46317706/156020127-262cbe2c-7e54-4466-a0aa-b54799149081.png)
 
 Press `OK` and play again. Good luck. 
